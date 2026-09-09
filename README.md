@@ -13,10 +13,3 @@ clase.
 * 🧮 **CAF:** Ejercicios básicos de rutina para practicar los conceptos visto en clase.
 * 🔗 **Recursos:** Material complementario.
 
----
-
-## ℹ️ Información General
-
-- **Materia:** Fundamentos Matemáticos (FUM)
-- **Cuatrimestre:** O2026
-- **Autor/a:** Dr. José Juan Zacarías
